@@ -1,0 +1,7 @@
+print('Enter type of the pet')
+type_pet = input()
+print('Enter the pets name')
+name = input()
+print('Enter the ege of the pet')
+ege = input()
+print('It s', type_pet, 'by name','"',name,'"','.','Ege:',ege, 'yeras old.')
